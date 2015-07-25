@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pid_ctrl")
+set(pid_ctrl_MAINTAINER "muaz <raden.m.muaz@gmail.com>")
+set(pid_ctrl_DEPRECATED "")
+set(pid_ctrl_VERSION "0.1.0")
+set(pid_ctrl_BUILD_DEPENDS "message_generation" "geometry_msgs" "roscpp" "rospy" "std_msgs" "pid")
+set(pid_ctrl_RUN_DEPENDS "message_runtime" "geometry_msgs" "roscpp" "rospy" "pid" "std_msgs")
+set(pid_ctrl_BUILDTOOL_DEPENDS "catkin")

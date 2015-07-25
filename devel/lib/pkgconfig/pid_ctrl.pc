@@ -1,0 +1,8 @@
+prefix=/home/muaz/catkin_ws/devel
+
+Name: pid_ctrl
+Description: Description of pid_ctrl
+Version: 0.1.0
+Cflags: -I/home/muaz/catkin_ws/devel/include -I/home/muaz/catkin_ws/src/pid_ctrl/include
+Libs: -L/home/muaz/catkin_ws/devel/lib -lpid_ctrl
+Requires: message_runtime geometry_msgs roscpp rospy std_msgs pid

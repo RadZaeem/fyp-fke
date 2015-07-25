@@ -1,0 +1,8 @@
+prefix=/home/muaz/catkin_ws/devel
+
+Name: node_example
+Description: Description of node_example
+Version: 0.0.1
+Cflags: -I/home/muaz/catkin_ws/devel/include
+Libs: -L/home/muaz/catkin_ws/devel/lib 
+Requires: dynamic_reconfigure message_runtime roscpp std_msgs

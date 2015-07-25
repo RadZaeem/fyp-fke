@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pendulum_joint_pub")
+set(pendulum_joint_pub_MAINTAINER "andy <andy@todo.todo>")
+set(pendulum_joint_pub_DEPRECATED "")
+set(pendulum_joint_pub_VERSION "0.0.0")
+set(pendulum_joint_pub_BUILD_DEPENDS )
+set(pendulum_joint_pub_RUN_DEPENDS )
+set(pendulum_joint_pub_BUILDTOOL_DEPENDS "catkin")

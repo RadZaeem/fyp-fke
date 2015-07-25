@@ -1,0 +1,2 @@
+fovis/fovis:fovis/fovis_ros:node_example:pid_ctrl:pid_pend_demo/src/gazebo_ros_demos/custom_plugin_tutorial:pid_pend_demo/src/gazebo_ros_demos/rrbot_control:pid_pend_demo/src/gazebo_ros_demos/rrbot_description:pid_pend_demo/src/gazebo_ros_demos/rrbot_gazebo:pid_pend_demo/src/pendulum_joint_pub:pid_pend_demo/src/pid_translator
+-DCATKIN_DEVEL_PREFIX=/home/muaz/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/muaz/catkin_ws/install -G Unix Makefiles

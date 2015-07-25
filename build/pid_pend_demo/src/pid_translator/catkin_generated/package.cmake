@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pid_translator")
+set(pid_translator_MAINTAINER "Andy Zelenak <andyz@utexas.edu>")
+set(pid_translator_DEPRECATED "")
+set(pid_translator_VERSION "0.0.0")
+set(pid_translator_BUILD_DEPENDS "roscpp" "std_msgs")
+set(pid_translator_RUN_DEPENDS "roscpp" "std_msgs")
+set(pid_translator_BUILDTOOL_DEPENDS "catkin")

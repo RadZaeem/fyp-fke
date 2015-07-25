@@ -1,0 +1,8 @@
+prefix=/home/muaz/catkin_ws/install
+
+Name: pendulum_joint_pub
+Description: Description of pendulum_joint_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/muaz/catkin_ws/install/lib 
+Requires: 
